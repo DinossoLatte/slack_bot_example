@@ -1,0 +1,1 @@
+Basic Slack bot made with Python using the library [slackClient](https://github.com/slackapi/python-slackclient) to be used in a dynamic IP network. 
